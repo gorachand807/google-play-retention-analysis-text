@@ -1,0 +1,2 @@
+Google Play Store Retention Analysis | SQL, Python, Looker Studio | [GitHub Link]
+Analyzed 10k+ apps to identify drivers of D7 uninstalls; built fact tables using CTEs & window functions in BigQuery, reducing query time by 60%. Designed A/B test for transparency tooltip feature, projecting +7.2% D7 retention with guardrail on installs; created executive dashboard for product decision.
